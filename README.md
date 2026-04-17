@@ -16,7 +16,7 @@ Busco minha primeira oportunidade como desenvolvedor, com o objetivo de aprender
 
 ##  Acesse o portfólio
 
-🔗 (adicione aqui quando publicar no GitHub Pages)
+https://portfolio-atualizado-eight.vercel.app/index.html
 
 ---
 
